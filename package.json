@@ -1,0 +1,14 @@
+{
+  "name": "account-membership",
+  "version": "1.0.0",
+  "description": "ระบบสมาชิก User Account เชื่อมต่อ MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.19.2",
+    "mongodb": "^6.9.0"
+  }
+}
